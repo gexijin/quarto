@@ -40,9 +40,14 @@ Learners with or without experience using R Markdown who are curious to learn ho
 
 ## Key concepts
 
+- Name files like naming a child. Organize folders like orgnizing your clothes.
 - File formats.    tex,  txt,  Markdown, R Markdown, Quarto, PDF, HTML, PowerPoint, Word
 - IDE (integrated debugging environment): R is a language. RStudio is an IDE. VS Code.
 - Static vs. dynamic HTML
+- Write elegant, readable code that can be maintained. Variable names. Indents.
+- Version control and collaborate via GitHub.
+
+
 
 
 ## Schedule
