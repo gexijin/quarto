@@ -40,6 +40,10 @@ Learners with or without experience using R Markdown who are curious to learn ho
 | 04:00 - 5:00 | Publishing; Shiny apps; GitHub        |
 
 
+## References
+
+- [quarto.org](https://quarto.org/)
+
 
 ## Instructor
 
