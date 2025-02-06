@@ -25,22 +25,25 @@ Learners with or without experience using R Markdown who are curious to learn ho
 
 - Set up an account at https://quartopub.com/
 - Bring a laptop and charger
+- Update R and RStudio
+
+
 
 ## Schedule
 
 | Time          | Activity         |
 | :------------ | :--------------- |
-| 09:00 - 10:30 | Welcome to Quarto        |
-| 10:30 - 11:00 | *Coffee break*   |
-| 11:00 - 12:30 | Polishing Documents        |
-| 12:30 - 13:30 | *Lunch break*    |
-| 13:30 - 15:00 | Presentations        |
-| 15:00 - 15:30 | *Coffee break*   |
-| 15:30 - 17:00 | Sharing Your Work        |
+| 02:00 - 02:55 | Get ready; Basic concepts; Welcome to Quarto        |
+| 02:55 - 03:00 | *Coffee break*   |
+| 03:00 - 03:55 | Polishing Documents; Presentations        |
+| 03:55 - 04:00 | *Lunch break*    |
+| 04:00 - 5:00 | Publishing; Shiny apps; GitHub        |
 
-## Instructor(s)
 
-Andrew Bray is a statistician at UC Berkeley where he develops and teaches courses in statistics and data science. His gets excited about empowering students to use data to understand the world and enjoys being part of a community of people developing open source software and open source educational resources. Though primarily an R user, several years ago he taught a large data science class to 1100 students in Python, which had him sorely missing the R Markdown ecosystem. The experience made him particularly grateful for Quarto as a bridge to other communities of data scientists.
+
+## Instructor
+
+[Dr. Xijin Ge](https://www.sdstate.edu/directory/xijin-ge) is a professor at South Dakota State University. He is also the founder of [Orditus](https://orditus.com), an AI startup aimed at streamlining  data analytics.
 
 -----
 
