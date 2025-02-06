@@ -1,16 +1,15 @@
 Introduction to Quarto
 ================
 
-### posit::conf(2024)
+### Data Science Symposium 2025
 
-by Andrew Bray
+Adapted from the workshop at posit::conf(2024)   by Andrew Bray.
 
 -----
 
-:spiral_calendar: August 12, 2024  
-:alarm_clock:     09:00 - 17:00  
-:hotel:           ROOM TBD  
-:writing_hand:    [pos.it/conf](http://pos.it/conf)
+:spiral_calendar: Feburary 6, 2025 
+:alarm_clock:     02:00 - 5:00 pm
+
 
 -----
 
