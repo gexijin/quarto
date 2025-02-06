@@ -26,7 +26,8 @@ Learners with or without experience using R Markdown who are curious to learn ho
 - Set up an account at https://quartopub.com/
 - Bring a laptop and charger
 - Update R and RStudio
-- 
+- For Python users, install anaconda, reticulate package
+
 ## Key concepts
 
 - Name files like naming a child. Organize folders like orgnizing your clothes.
@@ -35,6 +36,7 @@ Learners with or without experience using R Markdown who are curious to learn ho
 - Static vs. dynamic HTML
 - Write elegant, readable code that can be maintained. Variable names. Indents.
 - Version control and collaborate via GitHub.
+- Environment management using conda, docker
 
 ## First activity
 
