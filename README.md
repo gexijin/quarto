@@ -27,7 +27,14 @@ Learners with or without experience using R Markdown who are curious to learn ho
 - Bring a laptop and charger
 - Update R and RStudio
 
+## First activity
+- Start RStudio.
+- Start a new project in a new folder.
+- Start a new Quarto document. Render it. Make sure all packages are installed.
+- Start a new R Markdown documents. Observe the difference.
 
+## 2nd activity
+- [Use Quarto to generate PowerPoint presentations with equations](https://www.ge-lab.org/2024/12/03/generating-powerpoint-presentations-in-minutes/).
 
 ## Schedule
 
