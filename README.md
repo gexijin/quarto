@@ -67,7 +67,7 @@ Learners with or without experience using R Markdown who are curious to learn ho
 | 02:00 - 02:55 | Get ready; Basic concepts; Welcome to Quarto        |
 | 02:55 - 03:00 | *Coffee break*   |
 | 03:00 - 03:55 | Polishing Documents; Presentations        |
-| 03:55 - 04:00 | *Lunch break*    |
+| 03:55 - 04:00 | *Snack break*    |
 | 04:00 - 5:00 | Publishing; Shiny apps; GitHub        |
 
 
