@@ -1,7 +1,7 @@
 Introduction to Quarto
 ================
 
-### Data Science Symposium 2025
+### SDSU Data Science Symposium 2025
 
 Adapted from the workshop at posit::conf(2024)   by Andrew Bray.
 
