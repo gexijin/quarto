@@ -48,10 +48,15 @@ Learners with or without experience using R Markdown who are curious to learn ho
 - [Use Quarto to generate PowerPoint presentations with equations](https://www.ge-lab.org/2024/12/03/generating-powerpoint-presentations-in-minutes/).
 
 
-## 3rd activity
-usethis::use_course("https://github.com/qmdr/intro-quarto-morning/archive/refs/heads/master.zip")
+## 3rd activity: Quarto Intro
 
+-  ``` install.packages("usethis") ```
+- ``` usethis::use_course("https://github.com/qmdr/intro-quarto-morning/archive/refs/heads/master.zip") ```
+- Choose 1 to download and unzip to the desktop. Choose 1 again to delete.
 
+## 4th activity: Advanced
+
+- ```usethis::use_course("https://github.com/qmdr/intro-quarto-afternoon/archive/refs/heads/master.zip")```
 
 ## Schedule
 
